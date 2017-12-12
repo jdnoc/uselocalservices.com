@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Justice Template
-url: "https://orchid-heron.cloudvent.net"
+title: Use Local Services
+url: "http://uselocalservices.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
+description: Local services media publisher.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Justice Template
+  name: Use Local Services
   links:
-    - https://github.com/CloudCannon/justice-jekyll-template
+    - http://uselocalservices.com
 
 # -----
 # Build
@@ -59,7 +59,7 @@ defaults:
           width: 440
           height: 440
 
-permalink: pretty
+permalink: none
 
 jekyll-archives:
   enabled:
