@@ -12,19 +12,15 @@
       link: /advice/
 - title: Social
   links:
-    - name: Facebook
-      link:
-      social_icon: Facebook
-      new_window: true
     - name: Twitter
-      link:
+      link: https://twitter.com/uselocalservice
       social_icon: Twitter
       new_window: true
     - name: Google+
-      link:
+      link: https://plus.google.com/u/1/116425714291281595578
       social_icon: Google Plus
       new_window: true
-    - name: LinkedIn
-      link:
-      social_icon: LinkedIn
+    - name: YouTube
+      link: https://www.youtube.com/channel/UC4HHQfbZzXlI7RKsiQja5UA
+      social_icon: YouTube
       new_window: true
